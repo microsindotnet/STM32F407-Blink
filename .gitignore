@@ -1,0 +1,11 @@
+*.o
+*.obj
+*.a
+*.d
+bin/*
+deleted/*
+doc/*
+EWARM/Debug/*
+EWARM/Release/*
+util/append-STM32-hardware-CRC/obj/*
+util/append-STM32-hardware-CRC/bin/*
